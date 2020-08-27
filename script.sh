@@ -1,4 +1,7 @@
 
+# Warning : this script has ONLY been tested on a Gisaid alignment dating from June 2020
+# Please report any bug / issue
+
 gisaid_alignment=/home/bacterio/Copy/16.covid_cirad/GISAID/00.raw_data/msa_0613/msa_0613.fasta
 echo $gisaid_alignment
 gisaid_alignment_no_extension=$(echo $gisaid_alignment | sed s/.fasta$//)
