@@ -9,7 +9,7 @@
 	and to delete from all sequences the positions corresponding to "-" in that reference. 
 
 Input
->Wuhan-Hu-1  
+>>Wuhan-Hu-1  
 ATGCGTGAGTCGA---TAGTGCTGATGCTGAT  
 >Sequence_2  
 ATGCGTGAGTCGATCGTAGTGC---TGCTGAT  
