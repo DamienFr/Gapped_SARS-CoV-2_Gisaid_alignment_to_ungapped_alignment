@@ -1,0 +1,1 @@
+# Gapped_SARS-CoV-2_Gisaid_alignment_to_ungapped_alignment
