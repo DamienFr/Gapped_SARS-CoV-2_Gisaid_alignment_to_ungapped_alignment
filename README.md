@@ -7,6 +7,8 @@
 	used reference genome (Wuhan-Hu-1) from a gapped alignment downloaded from Gisaid's website.
 	The idea is basically to choose a reference among the aligned sequences (Wuhan-Hu-1 in our case)
 	and to delete from all sequences the positions corresponding to "-" in that reference. 
+	
+	The reference sequence is currently identified by looking for "EPI_ISL_402125" in the alignment input file. Modify it if needed.
 
 Input
 >\>Wuhan-Hu-1  
