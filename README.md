@@ -2,9 +2,12 @@
 
 # DESCRIPTION
 
-	Extract specific sequences from a fasta or fastq file containing multiple sequences.
-	Names of the sequences to extract are provided in a csv file.
-	Csv field and separator can be modified (first comma-separated field used by default)..
+	This is a quick-and-dirty way of transforming a gapped alignment into a ungapped alignment. It has been developed in order to obtain a SARS-CoV-2 alignement matching the size of the usualy used reference genome (Wuhan-Hu-1) from a gapped alignment downloaded from Gisaid's website.
+
+Input
+
+Output
+
 
 # USAGE
 
