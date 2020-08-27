@@ -8,7 +8,8 @@
 
 # USAGE
 
-	Change $gisaid_alignment variable to match the location of your downloaded Gisaid alignment and copy / paste the rest of the code into a unix terminal.
+	Change $gisaid_alignment variable to match the location of your downloaded Gisaid alignment
+	and copy / paste the rest of the code into a unix terminal.
 
 # AUTHOR
 
